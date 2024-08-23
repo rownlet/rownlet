@@ -5,7 +5,7 @@
 
 <h1>
   Hi there, I'm Rindolfo from Chile
-  <img decoding="async" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXB1ZWozNTdndWoxY3V2bzdoYTZpZnppZnlpaGJxa3duaTU4ZmkwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xUA7aO3740serwGGze/giphy.gif" width="30px"/>
+  <img decoding="async" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2g1cjBqeGF1czRhYzZsNXh5bnBscXVpZHEyZzVvdWxhZDkwZ2c1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Duo96Bw0nBfVK/giphy.gif" width="30px"/>
 </h1>
 
 * 💻 I’m currently working on `machine learning models`.  
@@ -16,11 +16,6 @@
 * 💎 Fun fact: I’m a certified `Data Scientist` from `Datacamp` and have a `C1` English Level!
 
 ## Skills
-
-<img decoding="async" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXVoc3F3bzB4ZzljeGdocTBjZHB4bXF5aDR5NDYzem1rbjRicGFjZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vISmwpBJUNYzukTnVx/giphy.gif" width="60px"/> <img decoding="async" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW92OG5xb2tjb204cjNkZjRscWQ2ZHE0cWJ3dHQ1ejk3MjM0Z25xaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif" width="60px"/>
-
-
-
 
 ![SQL](https://img.shields.io/badge/SQL-FFD700?style=for-the-badge&logo=postgresql&logoColor=FFD700&labelColor=000000)
 ![Tableau](https://img.shields.io/badge/Tableau-FFD700?style=for-the-badge&logo=tableau&logoColor=FFD700&labelColor=000000)
