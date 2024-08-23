@@ -28,6 +28,14 @@
 ![Docker](https://img.shields.io/badge/Docker-FFD700?style=for-the-badge&logo=docker&logoColor=FFD700&labelColor=000000)
 ![Airflow](https://img.shields.io/badge/Airflow-FFD700?style=for-the-badge&logo=apache-airflow&logoColor=FFD700&labelColor=000000)
 
+[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)](#)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](#)
+[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)](#)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](#)
+
+
+
+
 ## Find me at:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rindolfobarrar/)
