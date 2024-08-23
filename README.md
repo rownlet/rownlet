@@ -12,7 +12,8 @@
 ![SQL](https://img.shields.io/badge/SQL-FFD700?style=for-the-badge&logo=postgresql&logoColor=FFD700&labelColor=000000)
 ![Tableau](https://img.shields.io/badge/Tableau-FFD700?style=for-the-badge&logo=tableau&logoColor=FFD700&labelColor=000000)
 ![Power BI](https://img.shields.io/badge/Power_BI-FFD700?style=for-the-badge&logo=google-analytics&logoColor=FFD700&labelColor=000000)
-![Python](https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=FFD700&labelColor=000000)</br>
+![Python](https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=FFD700&labelColor=000000)
+![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?logo=amazon-redshift&logoColor=fff&style=for-the-badge)</br>
 
 
 ![HTML](https://img.shields.io/badge/HTML-FFD700?style=for-the-badge&logo=html5&logoColor=FFD700&labelColor=000000)
@@ -25,7 +26,6 @@
 ## Find me at:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rindolfobarrar/)
-[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=fff)](Rindolfo Barra)
 
 <!--
 **rownlet/rownlet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
