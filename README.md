@@ -21,7 +21,6 @@
 ![Git](https://img.shields.io/badge/Git-FFD700?style=for-the-badge&logo=git&logoColor=FFD700&labelColor=000000)
 ![Docker](https://img.shields.io/badge/Docker-FFD700?style=for-the-badge&logo=docker&logoColor=FFD700&labelColor=000000)
 ![Airflow](https://img.shields.io/badge/Airflow-FFD700?style=for-the-badge&logo=apache-airflow&logoColor=FFD700&labelColor=000000)
-![4chan Badge](https://img.shields.io/badge/4chan-060?logo=4chan&logoColor=fff&style=for-the-badge)
 
 ## Find me at:
 
