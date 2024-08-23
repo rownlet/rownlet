@@ -16,9 +16,9 @@
 ![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-FFD700?logo=amazon-redshift&logoColor=FFD700&&labelColor=000000&style=for-the-badge)</br>
 
 
-![Amazon Web Services](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=000000)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=000000)
-![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud%20Platform-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=000000)</br>
+![Amazon Web Services](https://img.shields.io/badge/Amazon%20Web%20Services-FFD700?style=for-the-badge&logo=amazonwebservices&logoColor=FFD700&labelColor=000000)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-FFD700?style=for-the-badge&logo=microsoft-azure&logoColor=FFD700&labelColor=000000)
+![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud%20Platform-FFD700?style=for-the-badge&logo=google-cloud&logoColor=FFD700&labelColor=000000)</br>
 
 ![HTML](https://img.shields.io/badge/HTML-FFD700?style=for-the-badge&logo=html5&logoColor=FFD700&labelColor=000000)
 ![CSS](https://img.shields.io/badge/CSS-FFD700?style=for-the-badge&logo=css3&logoColor=FFD700&labelColor=000000)</br>
