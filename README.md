@@ -9,13 +9,13 @@
 
 ## Skills
 
-![SQL](https://img.shields.io/badge/SQL-FFD700?style=for-the-badge&logo=postgresql&logoColor=black&labelColor=FFFFFF)
-![Tableau](https://img.shields.io/badge/Tableau-FFD700?style=for-the-badge&logo=tableau&logoColor=black)
-![Power BI](https://img.shields.io/badge/Power_BI-FFD700?style=for-the-badge&logo=google-analytics&logoColor=black)
-![Python](https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=black)
-![Git](https://img.shields.io/badge/Git-FFD700?style=for-the-badge&logo=git&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-FFD700?style=for-the-badge&logo=postgresql&labelColor=FFFFFF)
+![Tableau](https://img.shields.io/badge/Tableau-FFD700?style=for-the-badge&logo=tableau)
+![Power BI](https://img.shields.io/badge/Power_BI-FFD700?style=for-the-badge&logo=power-bi)
+![Python](https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python)
+![Git](https://img.shields.io/badge/Git-FFD700?style=for-the-badge&logo=git)
 ![Docker](https://img.shields.io/badge/Docker-FFD700?style=for-the-badge&logo=docker)
-![Airflow](https://img.shields.io/badge/Airflow-FFD700?style=for-the-badge&logo=apache-airflow&logoColor=black)</br>
+![Airflow](https://img.shields.io/badge/Airflow-FFD700?style=for-the-badge&logo=apache-airflow)
 ![Version Control](https://www.freepik.com/icon/developer_5338322)
 
 <!--
