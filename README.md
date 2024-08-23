@@ -9,7 +9,7 @@
 
 ## Skills
 
-![Code](https://img.shields.io/badge/Code-FFD700?style=for-the-badge&logo=code&logoColor=FFD700&labelColor=000000)
+![Code](https://img.shields.io/badge/Code-FFD700?style=for-the-badge&logo=windows-terminal&logoColor=FFD700&labelColor=000000)
 ![SQL](https://img.shields.io/badge/SQL-FFD700?style=for-the-badge&logo=postgresql&logoColor=FFD700&labelColor=000000)
 ![Tableau](https://img.shields.io/badge/Tableau-FFD700?style=for-the-badge&logo=tableau&logoColor=FFD700&labelColor=000000)
 ![Power BI](https://img.shields.io/badge/Power_BI-FFD700?style=for-the-badge&logo=google-analytics&logoColor=FFD700&labelColor=000000)
