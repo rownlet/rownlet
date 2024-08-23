@@ -18,8 +18,6 @@
 ![Git](https://img.shields.io/badge/Git-FFD700?style=for-the-badge&logo=git&logoColor=FFD700&labelColor=000000)
 ![Docker](https://img.shields.io/badge/Docker-FFD700?style=for-the-badge&logo=docker&logoColor=FFD700&labelColor=000000)
 ![Airflow](https://img.shields.io/badge/Airflow-FFD700?style=for-the-badge&logo=apache-airflow&logoColor=FFD700&labelColor=000000)
-<br>
-
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-FFD700?style=for-the-badge&logo=openai&logoColor=FFD700&labelColor=000000)](#)
 
 <!--
