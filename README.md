@@ -26,8 +26,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=FFD700&labelColor=000000)](https://www.linkedin.com/in/rindolfobarrar/)
 
 
-<div id="badges" align="center">
-<img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=rownlet.rownlet&color=00cf00" alt=""/>
+![](https://komarev.com/ghpvc/?username=rownlet)
   
 <!--
 **rownlet/rownlet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
