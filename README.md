@@ -1,4 +1,4 @@
-## Hi there, I'm rindolfo from Chile 👋
+## Hi there, I'm rindolfo from Chile 👋 ![](https://komarev.com/ghpvc/?username=rownlet&style=plastic&color=lightgrey)
 
 * 💻 I’m currently working on `machine learning models`.  
 * 🌱 I’m currently learning `advanced NLP techniques` and `cloud-based data solutions`.  
@@ -25,8 +25,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=FFD700&labelColor=000000)](https://www.linkedin.com/in/rindolfobarrar/)
 
-
-![](https://komarev.com/ghpvc/?username=rownlet&style=plastic&color=lightgrey)
   
 <!--
 **rownlet/rownlet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
