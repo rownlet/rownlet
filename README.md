@@ -2,9 +2,10 @@
   <img src="https://komarev.com/ghpvc/?username=rownlet&style=square-flat&color=133337" alt="Profile views">
 </p>
 
-## Hi there, I'm Rindolfo from Chile 👋 
-
-
+<h1>
+  Hi there, I'm Rindolfo from Chile
+  <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 * 💻 I’m currently working on `machine learning models`.  
 * 🌱 I’m currently learning `advanced NLP techniques` and `cloud-based data solutions`.  
