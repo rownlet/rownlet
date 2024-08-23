@@ -1,9 +1,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rownlet&style=square-flat&color=133337" alt="Profile views">
 </p>
-<p align="center">
+
 ## Hi there, I'm Rindolfo from Chile 👋 
-</p>
+
 
 
 * 💻 I’m currently working on `machine learning models`.  
