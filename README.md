@@ -12,11 +12,9 @@
 ![SQL](https://img.shields.io/badge/SQL-FFD700?style=for-the-badge&logo=postgresql&logoColor=FFD700&labelColor=000000)
 ![Tableau](https://img.shields.io/badge/Tableau-FFD700?style=for-the-badge&logo=tableau&logoColor=FFD700&labelColor=000000)
 ![Power BI](https://img.shields.io/badge/Power_BI-FFD700?style=for-the-badge&logo=google-analytics&logoColor=FFD700&labelColor=000000)
-![Python](https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=FFD700&labelColor=000000)
-![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-FFD700?logo=amazon-redshift&logoColor=FFD700&&labelColor=000000&style=for-the-badge)</br>
+![Python](https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=FFD700&labelColor=000000)</br>
 
-
-![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-FFD700?style=for-the-badge&logo=amazonwebservices&logoColor=FFD700&labelColor=000000)
+![AWS](https://img.shields.io/badge/A%20W%20S-FFD700?style=for-the-badge&logo=amazonwebservices&logoColor=FFD700&labelColor=000000)
 ![GCP](https://img.shields.io/badge/Google%20Cloud%20Platform-FFD700?style=for-the-badge&logo=google-cloud&logoColor=FFD700&labelColor=000000)</br>
 
 ![HTML](https://img.shields.io/badge/HTML-FFD700?style=for-the-badge&logo=html5&logoColor=FFD700&labelColor=000000)
