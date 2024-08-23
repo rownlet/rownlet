@@ -2,8 +2,6 @@
   <img src="https://komarev.com/ghpvc/?username=rownlet&style=square-flat&color=133337" alt="Viewers">
 </p>
 
-<img decoding="async" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGxsZ2ZsdXluN2xiMnVtbmhveWhtZ3RlN250dzNrcTVidGFscXJhMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2ignjWzdLjSYE/giphy.gif" width="30px"/>
-
 <h1>
   Hi there, I'm Rindolfo from Chile
   <img decoding="async" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXB1ZWozNTdndWoxY3V2bzdoYTZpZnppZnlpaGJxa3duaTU4ZmkwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xUA7aO3740serwGGze/giphy.gif" width="30px"/>
