@@ -2,9 +2,10 @@
   <img src="https://komarev.com/ghpvc/?username=rownlet&style=square-flat&color=133337" alt="Profile views">
 </p>
 
+
 <h1>
   Hi there, I'm Rindolfo from Chile
-  <img decoding="async" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXVoc3F3bzB4ZzljeGdocTBjZHB4bXF5aDR5NDYzem1rbjRicGFjZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vISmwpBJUNYzukTnVx/giphy.gif" width="50px"/>
+  <img decoding="async" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDcwdWhoZHdmOGoxODduaXNrcTFxbjh3d3RuZHd6MWZheWExMnI5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cmegx6SssTKmEFEcwj/giphy-downsized-large.gif" width="50px"/>
 </h1>
 
 * 💻 I’m currently working on `machine learning models`.  
@@ -16,7 +17,9 @@
 
 ## Skills
 
-<img decoding="async" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW92OG5xb2tjb204cjNkZjRscWQ2ZHE0cWJ3dHQ1ejk3MjM0Z25xaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif" width="50px"/>
+<img decoding="async" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXVoc3F3bzB4ZzljeGdocTBjZHB4bXF5aDR5NDYzem1rbjRicGFjZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vISmwpBJUNYzukTnVx/giphy.gif" width="60px"/>
+
+<img decoding="async" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW92OG5xb2tjb204cjNkZjRscWQ2ZHE0cWJ3dHQ1ejk3MjM0Z25xaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif" width="60px"/>
 
 
 
