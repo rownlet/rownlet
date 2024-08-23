@@ -1,4 +1,6 @@
-## Hi there, I'm rindolfo from Chile 👋 <p align="right">
+## Hi there, I'm rindolfo from Chile 👋 
+
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=rownlet&style=plastic&color=lightgrey" alt="Profile views">
 </p>
 
