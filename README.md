@@ -20,7 +20,7 @@
 ![Airflow](https://img.shields.io/badge/Airflow-FFD700?style=for-the-badge&logo=apache-airflow&logoColor=FFD700&labelColor=000000)
 <br>
 
-[![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-FFD700?style=for-the-badge&logo=openai&logoColor=FFD700&labelColor=000000)](#)
 
 <!--
 **rownlet/rownlet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
