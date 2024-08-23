@@ -13,11 +13,10 @@
 ![Tableau](https://img.shields.io/badge/Tableau-FFD700?style=for-the-badge&logo=tableau&logoColor=FFD700&labelColor=000000)
 ![Power BI](https://img.shields.io/badge/Power_BI-FFD700?style=for-the-badge&logo=google-analytics&logoColor=FFD700&labelColor=000000)
 ![Python](https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=FFD700&labelColor=000000)</br>
-<br>
+
 
 ![HTML](https://img.shields.io/badge/HTML-FFD700?style=for-the-badge&logo=html5&logoColor=FFD700&labelColor=000000)
-![CSS](https://img.shields.io/badge/CSS-FFD700?style=for-the-badge&logo=css3&logoColor=FFD700&labelColor=000000)
-<br>
+![CSS](https://img.shields.io/badge/CSS-FFD700?style=for-the-badge&logo=css3&logoColor=FFD700&labelColor=000000)</br>
 
 ![Git](https://img.shields.io/badge/Git-FFD700?style=for-the-badge&logo=git&logoColor=FFD700&labelColor=000000)
 ![Docker](https://img.shields.io/badge/Docker-FFD700?style=for-the-badge&logo=docker&logoColor=FFD700&labelColor=000000)
