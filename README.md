@@ -11,7 +11,7 @@
 
 ![SQL](https://img.shields.io/badge/SQL-FFD700?style=for-the-badge&logo=postgresql&labelColor=000000)
 ![Tableau](https://img.shields.io/badge/Tableau-FFD700?style=for-the-badge&logo=tableau&labelColor=000000)
-![Power BI](https://img.shields.io/badge/Power_BI-FFD700?style=for-the-badge&logo=google-analytics&logoColor=black&labelColor=000000)
+![Power BI](https://img.shields.io/badge/Power_BI-FFD700?style=for-the-badge&logo=google-analytics&logoColor=FFD700&labelColor=000000)
 ![Python](https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&labelColor=000000)
 ![Git](https://img.shields.io/badge/Git-FFD700?style=for-the-badge&logo=git&labelColor=000000)
 ![Docker](https://img.shields.io/badge/Docker-FFD700?style=for-the-badge&logo=docker&labelColor=000000)
