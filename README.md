@@ -9,7 +9,6 @@
 
 ## Skills
 
-![Code](https://img.shields.io/badge/Code-FFD700?style=for-the-badge&logo=codepen&logoColor=FFD700&labelColor=000000)
 ![SQL](https://img.shields.io/badge/SQL-FFD700?style=for-the-badge&logo=postgresql&logoColor=FFD700&labelColor=000000)
 ![Tableau](https://img.shields.io/badge/Tableau-FFD700?style=for-the-badge&logo=tableau&logoColor=FFD700&labelColor=000000)
 ![Power BI](https://img.shields.io/badge/Power_BI-FFD700?style=for-the-badge&logo=google-analytics&logoColor=FFD700&labelColor=000000)
@@ -19,6 +18,9 @@
 ![Git](https://img.shields.io/badge/Git-FFD700?style=for-the-badge&logo=git&logoColor=FFD700&labelColor=000000)
 ![Docker](https://img.shields.io/badge/Docker-FFD700?style=for-the-badge&logo=docker&logoColor=FFD700&labelColor=000000)
 ![Airflow](https://img.shields.io/badge/Airflow-FFD700?style=for-the-badge&logo=apache-airflow&logoColor=FFD700&labelColor=000000)
+<br>
+
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)
 
 <!--
 **rownlet/rownlet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
