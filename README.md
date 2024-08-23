@@ -24,7 +24,7 @@
 ![CSS](https://img.shields.io/badge/CSS-FFD700?style=for-the-badge&logo=css3&logoColor=FFD700&labelColor=000000)</br>
 
 ![Git](https://img.shields.io/badge/Git-FFD700?style=for-the-badge&logo=git&logoColor=FFD700&labelColor=000000)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-FFD700?style=for-the-badge&logo=visual-studio&logoColor=FFD700&labelColor=000000)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-FFD700?style=for-the-badge&logo=vsc&logoColor=FFD700&labelColor=000000)
 ![Docker](https://img.shields.io/badge/Docker-FFD700?style=for-the-badge&logo=docker&logoColor=FFD700&labelColor=000000)
 ![Airflow](https://img.shields.io/badge/Airflow-FFD700?style=for-the-badge&logo=apache-airflow&logoColor=FFD700&labelColor=000000)
 
