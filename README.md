@@ -14,8 +14,8 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-FFD700?style=for-the-badge&logo=google-analytics&logoColor=FFD700&labelColor=000000)
 ![Python](https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=FFD700&labelColor=000000)</br>
 
-![AWS](https://img.shields.io/badge/A%20W%20S-FFD700?style=for-the-badge&logo=amazonwebservices&logoColor=FFD700&labelColor=000000)
-![GCP](https://img.shields.io/badge/Google%20Cloud%20Platform-FFD700?style=for-the-badge&logo=google-cloud&logoColor=FFD700&labelColor=000000)</br>
+![AWS](https://img.shields.io/badge/AWS-FFD700?style=for-the-badge&logo=amazonwebservices&logoColor=FFD700&labelColor=000000)
+![GCP](https://img.shields.io/badge/GCP-FFD700?style=for-the-badge&logo=google-cloud&logoColor=FFD700&labelColor=000000)</br>
 
 ![HTML](https://img.shields.io/badge/HTML-FFD700?style=for-the-badge&logo=html5&logoColor=FFD700&labelColor=000000)
 ![CSS](https://img.shields.io/badge/CSS-FFD700?style=for-the-badge&logo=css3&logoColor=FFD700&labelColor=000000)</br>
