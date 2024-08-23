@@ -9,7 +9,7 @@
 
 ## Skills
 
-![SQL](https://img.shields.io/badge/:badgeContent?style=for-the-badge&logo=SQL&logoColor=%23FFD700&logoSize=auto&label=SQL&labelColor=%23FFFFFF)</br>
+![SQL](https://img.shields.io/badge/Sql-FF0000?style=for-the-badge&logo=SQL&logoColor=%23FFD700&logoSize=auto&label=SQL&labelColor=%23FFFFFF)</br>
 
 <!--
 **rownlet/rownlet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
