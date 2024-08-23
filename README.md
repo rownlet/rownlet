@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rownlet&style=square-flat&color=133337" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=rownlet&style=square-flat&color=133337" alt="Viewers">
 </p>
 
 
@@ -33,6 +33,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=FFD700&labelColor=000000)](https://www.linkedin.com/in/rindolfobarrar/)
 
+## Statistics
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rownlet&theme=dark&background=000000)](https://git.io/streak-stats)
   
 <!--
 **rownlet/rownlet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
