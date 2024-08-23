@@ -7,6 +7,10 @@
 * 💬 Ask me about `data visualization`, `machine learning`, or `optimizing processes`.    
 * 💎 Fun fact: I’m a certified `Data Scientist` from `Datacamp` and have a `C1` English Level!
 
+## Skills
+
+![SQL](https://img.shields.io/badge/:badgeContent?style=plastic&logo=SQL&logoColor=%23FFD700&logoSize=auto&label=SQL&labelColor=%23FFFFFF)
+
 <!--
 **rownlet/rownlet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
