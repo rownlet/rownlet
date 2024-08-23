@@ -26,8 +26,8 @@
 ![CSS](https://img.shields.io/badge/CSS-FFD700?style=for-the-badge&logo=css3&logoColor=FFD700&labelColor=000000)
 
 <p align="center">
-  <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel"/>
-  <img decoding="async" src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=power-bi&logoColor=white" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white" alt="Power BI"/>
 </p>
 
 ## Find me at:
