@@ -24,9 +24,9 @@
 ![Airflow](https://img.shields.io/badge/Airflow-FFD700?style=for-the-badge&logo=apache-airflow&logoColor=FFD700&labelColor=000000)
 ![4chan Badge](https://img.shields.io/badge/4chan-060?logo=4chan&logoColor=fff&style=for-the-badge)
 
-## Social Networks
+## Find me at:
 
-![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/rindolfobarrar/)
 
 
 <!--
