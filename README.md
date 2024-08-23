@@ -5,7 +5,7 @@
 
 <h1>
   Hi there, I'm Rindolfo from Chile
-  <img decoding="async" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2g1cjBqeGF1czRhYzZsNXh5bnBscXVpZHEyZzVvdWxhZDkwZ2c1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Duo96Bw0nBfVK/giphy.gif" width="30px"/>
+  <img decoding="async" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjU5Yzd1cWFnNHk4ZmF5emd5NGpkNWg2dTRhdG83cDk4NTJkeGtlYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1rPvYeabnd4SF8CREq/giphy.gif" width="30px"/>
 </h1>
 
 * 💻 I’m currently working on `machine learning models`.  
