@@ -16,6 +16,11 @@
 
 ## Skills
 
+<img decoding="async" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW92OG5xb2tjb204cjNkZjRscWQ2ZHE0cWJ3dHQ1ejk3MjM0Z25xaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif" width="50px"/>
+
+
+
+
 ![SQL](https://img.shields.io/badge/SQL-FFD700?style=for-the-badge&logo=postgresql&logoColor=FFD700&labelColor=000000)
 ![Tableau](https://img.shields.io/badge/Tableau-FFD700?style=for-the-badge&logo=tableau&logoColor=FFD700&labelColor=000000)
 ![Power BI](https://img.shields.io/badge/Power_BI-FFD700?style=for-the-badge&logo=google-analytics&logoColor=FFD700&labelColor=000000)
