@@ -1,7 +1,7 @@
 ## Hi there, I'm rindolfo from Chile 👋 
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=rownlet&style=plastic&color=065535" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=rownlet&style=plastic&color=133337" alt="Profile views">
 </p>
 
 * 💻 I’m currently working on `machine learning models`.  
