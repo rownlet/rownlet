@@ -15,7 +15,7 @@
 * 💬 Ask me about `data visualization`, `machine learning`, or `optimizing processes`.    
 * 💎 Fun fact: I’m a certified `Data Scientist` from `Datacamp` and have a `C1` English Level!
 
-## Skills
+## Skills:
 
 ![SQL](https://img.shields.io/badge/SQL-FFD700?style=for-the-badge&logo=postgresql&logoColor=FFD700&labelColor=000000)
 ![Tableau](https://img.shields.io/badge/Tableau-FFD700?style=for-the-badge&logo=tableau&logoColor=FFD700&labelColor=000000)
@@ -33,7 +33,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=FFD700&labelColor=000000)](https://www.linkedin.com/in/rindolfobarrar/)
 
-## Statistics
+## Statistics:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rownlet&theme=dark&background=000000)](https://git.io/streak-stats)
 
