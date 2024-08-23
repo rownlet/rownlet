@@ -1,4 +1,4 @@
-## Hi there yall 👋
+## Read no further 👋
 
 * 🔭 I’m currently working on `machine learning models`.  
 * 🌱 I’m currently learning `advanced NLP techniques` and `cloud-based data solutions`.  
