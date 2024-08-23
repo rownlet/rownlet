@@ -10,7 +10,7 @@
 ## Skills
 
 <p align="center">
-  📊 
+  📊&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/SQL-FFD700?style=for-the-badge&logo=postgresql&logoColor=FFD700&labelColor=000000" alt="SQL"/>
   <img src="https://img.shields.io/badge/Tableau-FFD700?style=for-the-badge&logo=tableau&logoColor=FFD700&labelColor=000000" alt="Tableau"/>
   <img src="https://img.shields.io/badge/Power_BI-FFD700?style=for-the-badge&logo=google-analytics&logoColor=FFD700&labelColor=000000" alt="Power BI"/>
@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  🌐 
+  🌐&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Git-FFD700?style=for-the-badge&logo=git&logoColor=FFD700&labelColor=000000" alt="Git"/>
   <img src="https://img.shields.io/badge/Docker-FFD700?style=for-the-badge&logo=docker&logoColor=FFD700&labelColor=000000" alt="Docker"/>
   <img src="https://img.shields.io/badge/Airflow-FFD700?style=for-the-badge&logo=apache-airflow&logoColor=FFD700&labelColor=000000" alt="Airflow"/>
