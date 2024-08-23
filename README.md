@@ -1,6 +1,6 @@
 ## Hi there, I'm rindolfo from Chile 👋 
 
-<p align="right">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=rownlet&style=plastic&color=00008B" alt="Profile views">
 </p>
 
